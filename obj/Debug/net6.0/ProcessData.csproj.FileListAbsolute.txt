@@ -1,0 +1,15 @@
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\ProcessData.exe
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\ProcessData.deps.json
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\ProcessData.runtimeconfig.json
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\ProcessData.dll
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\ProcessData.pdb
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.csproj.AssemblyReference.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.AssemblyInfoInputs.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.AssemblyInfo.cs
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.csproj.CoreCompileInputs.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.dll
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\refint\ProcessData.dll
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.pdb
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ProcessData.genruntimeconfig.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ref\ProcessData.dll

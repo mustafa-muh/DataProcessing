@@ -1,0 +1,15 @@
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\Football.exe
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\Football.deps.json
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\Football.runtimeconfig.json
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\Football.dll
+C:\DigitalDTech\2022\Tests\WeatherData\bin\Debug\net6.0\Football.pdb
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.AssemblyInfo.cs
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.dll
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\refint\Football.dll
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.pdb
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\Football.genruntimeconfig.cache
+C:\DigitalDTech\2022\Tests\WeatherData\obj\Debug\net6.0\ref\Football.dll
